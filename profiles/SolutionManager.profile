@@ -8085,6 +8085,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>User.ATTUID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>User.CP_Profile_ID__c</field>
         <readable>true</readable>
     </fieldPermissions>

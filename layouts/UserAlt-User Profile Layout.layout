@@ -16,7 +16,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>CP_Profile_ID__c</field>
+                <field>ATTUID__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

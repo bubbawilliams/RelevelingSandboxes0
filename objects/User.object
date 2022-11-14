@@ -435,6 +435,17 @@
         <label>Copado License Manager</label>
     </fieldSets>
     <fields>
+        <fullName>ATTUID__c</fullName>
+        <description>Mock field like one in a recent user story; created to help practice preparing environment landscape for initial Copado pipeline use.</description>
+        <externalId>true</externalId>
+        <label>ATTUID</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>CP_Profile_ID__c</fullName>
         <description>Mock field to help practice preparing DTV AD 360&apos;s environments for initial Copado pipeline use.</description>
         <externalId>false</externalId>
